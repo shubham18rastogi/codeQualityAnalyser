@@ -4,11 +4,13 @@
 ## Intoduction
 
 A java project that analyses the java code provided by user and does a quality analysis and report potential bugs, error in the code.
+
 For now, its a linux based project
 
 ## Requirements
 
 >java 1.7 and above
+
 >maven 3.3.9 and above
 
 ## Build 
@@ -24,6 +26,7 @@ Run the class file
 
 Enter the path of directory where java code is present
 > <path_to_directory>
+
 > eg. /home/shubham/Desktop/
 
 Enter the file name
